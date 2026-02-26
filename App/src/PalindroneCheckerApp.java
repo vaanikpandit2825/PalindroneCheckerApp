@@ -9,5 +9,9 @@ public class PalindroneCheckerApp {
         System.out.println("Version: 1.0");
         System.out.println("System Initialized Sucessfully");
 
+
+        System.out.print("Enter the string: ");
+
+
     }
 }
